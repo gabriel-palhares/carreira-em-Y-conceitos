@@ -15,3 +15,10 @@ Na Carreira em Y, o profissional pode optar entre seguir para o cargo gerencial 
 
 - Principal: Identifica e desmembra  problemas que muitas vezes exigem a participação de várias organizações/centros de custo na solução. Tenta garantir que as diferentes partes da solução vão funcionar bem juntas. Nível de impacto: Empresa
 
+- Distinguished: Identifica e desmembra problemas que muitas vezes exigem a participação de várias empresas/centros de pesquisa na solução. Participa de grupos que tentam fazer as diferentes partes da solução funcionarem bem juntas. Nível de Impacto: Indústria
+
+#### ironia/ Fellow: Faz o que der na telha. Nível de Impacto: Sistema Solar
+
+- Pergunta do Felippe: Peguemos GOlang de exemplo, nasceu dentro da Google. Podemos dizer que veio de pesquisadores, distinguisheds e principals? Demandas fora da curva desse tipo descem em forma de task pra times com seniores/plenos/juniores tbm?
+
+- Resposta do Alexandre: Não sei quais eram os níveis do Rob Pike e do Robert Griesemer mas o Ken Thompson era Distinguished Engineer quando eles criaram Go então tá batendo aqui com minha definição. E sim, projetos dessa magnitude geralmente geram trabalho para todos os níveis nessa pirâmide :)
