@@ -4,6 +4,7 @@
 ###### main source: Alexandre
 
 Na Carreira em Y, o profissional pode optar entre seguir para o cargo gerencial ou escolher ser um especialista na área técnica de um determinado setor. Caso o profissional tenha aspirações gerenciais, pode dar continuidade em seu plano de carreira habitual, podendo também aperfeiçoar os conhecimentos.
+Existe uma diferença entre os diferentes níveis na trilha de individual contributor em carreira em Y, sses são os níveis que não exigem que você atue como gerente (aí vão as minhas definições informais para alguns desses níveis):
 
 - Junior: Resolve problemas pequenos e bem definidos. Geralmente recebe orientação de pessoas mais senior.  Nível de Impacto: Projeto
 
