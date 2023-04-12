@@ -22,4 +22,4 @@ Existe uma diferença entre os diferentes níveis na trilha de individual contri
 
 - Pergunta do Felippe: Peguemos GOlang de exemplo, nasceu dentro da Google. Podemos dizer que veio de pesquisadores, distinguisheds e principals? Demandas fora da curva desse tipo descem em forma de task pra times com seniores/plenos/juniores tbm?
 
-- Resposta do Alexandre: Não sei quais eram os níveis do Rob Pike e do Robert Griesemer mas o Ken Thompson era Distinguished Engineer quando eles criaram Go então tá batendo aqui com minha definição. E sim, projetos dessa magnitude geralmente geram trabalho para todos os níveis nessa pirâmide :)
+- Resposta do Alexandre: Não sei quais eram os níveis do Rob Pike e do Robert Griesemer, mas o Ken Thompson era Distinguished Engineer quando eles criaram Go, então tá batendo aqui com minha definição. E sim, projetos dessa magnitude geralmente geram trabalho para todos os níveis nessa pirâmide :)
