@@ -23,8 +23,7 @@ Software Engineering Manager
 
 Technical Team Lead
 
-**Principal and Distinguished**
-
+#### Principal and Distinguished
 
 Os termos "Principal" e "Distinguished" são geralmente usados para denotar posições de alto nível ou de destaque em algumas empresas de tecnologia, especialmente em organizações de grande porte. Esses títulos podem variar de empresa para empresa, mas geralmente representam profissionais altamente experientes e respeitados em suas áreas. Abaixo, vou descrever esses títulos em um contexto geral:
 
@@ -34,7 +33,7 @@ Os termos "Principal" e "Distinguished" são geralmente usados para denotar posi
 
 Tenha em mente que a nomenclatura exata e os critérios para esses títulos podem variar de empresa para empresa. Em algumas organizações, esses títulos podem ser usados de maneira intercambiável ou de forma personalizada para atender às necessidades específicas da empresa. No entanto, em geral, tanto "Principal" quanto "Distinguished" indicam um alto grau de reconhecimento e respeito na indústria de tecnologia.
 
-**Fellow**
+#### Fellow
 
 O título "Fellow" é um dos mais prestigiosos em uma carreira técnica, e é frequentemente concedido a profissionais que alcançaram realizações notáveis e de destaque em sua área de atuação. O termo "Fellow" é usado para reconhecer um nível excepcional de experiência e contribuições, geralmente dentro de uma organização ou indústria. Aqui está uma descrição mais detalhada do que significa ser um "Fellow":
 
