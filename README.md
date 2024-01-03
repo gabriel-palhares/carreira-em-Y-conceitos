@@ -1,7 +1,7 @@
 # Carreira em Y
 
 #### Conceitos, observações e diferenças.
-###### main source: Alexandre
+###### main source: <a href="https://x.com/AlexandreSWE/status/1645613727947927553?s=20">Alexandre's thread</a>
 
 Na Carreira em Y, o profissional pode optar entre seguir para o cargo gerencial ou escolher ser um especialista na área técnica de um determinado setor. Caso o profissional tenha aspirações gerenciais, pode dar continuidade em seu plano de carreira habitual, podendo também aperfeiçoar os conhecimentos.
 Existe uma diferença entre os diferentes níveis na trilha de individual contributor em carreira em Y, esses são os níveis que não exigem que você atue como gerente (aí vão as minhas definições informais para alguns desses níveis):
